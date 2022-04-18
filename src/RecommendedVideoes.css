@@ -1,0 +1,39 @@
+.recommendedvideoes {
+
+    /* flex: 0.8;  */
+    width: 100%;
+    background-color: #f9f9f9;
+    padding: 40px 20px;
+    padding-bottom: 0;
+ 
+
+}
+
+.recommendedvideoes h2 {
+    margin-left: 5px;
+    margin-bottom: 20px;
+
+}
+.recommendedvideoes__dark {
+
+    /* flex: 0.8;  */
+    width: 100%;
+    background-color: #252525;
+    padding: 40px 20px;
+    padding-bottom: 0;
+ 
+ 
+
+}
+
+.recommendedvideoes__dark h2 {
+    margin-left: 5px;
+    margin-bottom: 20px;
+    color: white;
+
+}
+
+.recommendedvideoes__videoes{
+    display: flex;
+    flex-wrap: wrap;
+}
